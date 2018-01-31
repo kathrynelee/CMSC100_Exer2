@@ -1,4 +1,3 @@
 # CMSC100_Exer2
 
-
-helllo besssss
+Welcome to CMSC 100 Exercise 2
